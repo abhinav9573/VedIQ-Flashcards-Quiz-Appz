@@ -29,32 +29,27 @@ Whether you're:
 
 ---
 
-## 📹 App Preview
+## 📱 Download the App
 
-### 🎬 Demo Video  
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID "VedIQ Demo")
+> 👉 [**Available now on the App Store**](https://apps.apple.com/us/app/vediq-flashcards-quiz-app/id6748696401)
 
-*(Replace with your actual YouTube or Google Drive video link)*
+---
+
+## 🎬 Demo Video  
+
+[Watch Demo](https://drive.google.com/file/d/1b_Pwn0XYOYufXxL7VqYZ2htcf9LKHIDO/view?usp=sharing)
 
 ---
 
 ## 🖼️ Screenshots
 
-<p align="center">
-  <img src="Media/promo.jpeg" width="200" height="2100" alt="Promo"/>
-  <img src="Media/home.jpeg" width="200" height="850" alt="Home"/>
-  <img src="Media/Flashcards.jpeg" width="200" height="850" alt="Flashcard View"/>
-  <img src="Media/Quiz.jpeg" width="200" height="850" alt="Quiz Screen"/>
-</p>
-
-
-> _Add your actual screenshot files in a `screenshots/` folder and update the file names._
-
----
-
-## 📱 Download the App
-
-> 👉 [**Available now on the App Store**](https://apps.apple.com/us/app/vediq-flashcards-quiz-app/id6748696401)
+<div style="display: flex; gap: 30px;">
+  <img src="Media/promo.jpeg" width="245">
+  <img src="Media/home.jpeg" alt="Home Screen" width="200">
+  <img src="Media/Flashcards.jpeg" alt="Upload Screen" width="200">
+  <img src="Media/Quiz.jpeg" alt="Home Screen" width="200">
+  
+</div>
 
 ---
 
@@ -69,8 +64,8 @@ Whether you're:
 ## 👥 Built With ❤️ By
 
 - **Abhinav Gupta** ([GitHub](https://github.com/abhinav9573))  
-- **Aditya Mathur** ([GitHub](#))  
-- **Harshit Gupta** ([GitHub](#))  
+- **Aditya Mathur** ([GitHub](https://github.com/adityam2003))  
+- **Harshit Gupta** ([GitHub](https://github.com/harshitgupta0106))  
 
 > A team project focused on turning study materials into smarter learning tools.
 
@@ -83,8 +78,9 @@ Whether you're:
 VedIQ isn’t just another flashcard app. It helps you **actively engage** with your study material so you can learn more in less time.
 
 ---
-
 ## 🙌 Feedback & Suggestions
 
 We’d love to hear from you!  
-Open an issue or contact us for improvements and feedback.
+Open an issue or contact us for improvements and feedback.  
+**Contact Us:** [vediq.app@gmail.com](mailto:vediq.app@gmail.com)
+
