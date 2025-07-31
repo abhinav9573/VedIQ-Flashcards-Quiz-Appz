@@ -42,7 +42,7 @@ Whether you're:
 
 | Home Screen | Flashcard View | Quiz Screen |
 |-------------|----------------|-------------|
-| ![Home](screenshots/home.png) | ![Flashcard](screenshots/flashcard.png) | ![Quiz](screenshots/quiz.png) |
+| ![Home](Media/home.jpeg) | ![Flashcard](Media/Flashcards.jpeg) | ![Quiz](Media/Quiz.jpeg) |
 
 > _Add your actual screenshot files in a `screenshots/` folder and update the file names._
 
