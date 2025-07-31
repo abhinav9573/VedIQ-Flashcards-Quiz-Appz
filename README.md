@@ -40,9 +40,13 @@ Whether you're:
 
 ## 🖼️ Screenshots
 
-| Home Screen | Flashcard View | Quiz Screen |
-|-------------|----------------|-------------|
-| ![Home](Media/home.jpeg) | ![Flashcard](Media/Flashcards.jpeg) | ![Quiz](Media/Quiz.jpeg) |
+<p align="center">
+  <img src="Media/promo.jpeg" width="200" height="2100" alt="Promo"/>
+  <img src="Media/home.jpeg" width="200" height="850" alt="Home"/>
+  <img src="Media/Flashcards.jpeg" width="200" height="850" alt="Flashcard View"/>
+  <img src="Media/Quiz.jpeg" width="200" height="850" alt="Quiz Screen"/>
+</p>
+
 
 > _Add your actual screenshot files in a `screenshots/` folder and update the file names._
 
